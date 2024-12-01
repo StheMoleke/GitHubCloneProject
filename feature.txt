@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the content of feature.txt
+=======
+This is a new feature.
+>>>>>>> feature-greeting
